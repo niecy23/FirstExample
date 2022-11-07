@@ -1,5 +1,14 @@
-Decide which business to order from 
-Decide what type of pizza to order
-Decide if you want to order online or call the store
-Decide if you want delivery or carry out
-Place your order with the chosen method
+Pizza Algo
+
+1. Decide which business to order from 
+2. Decide what type of pizza to order
+    2a. Select toppings
+    2b. Select crust
+3. Decide if you want to order online or call the store
+4. Decide if you want delivery or carry out
+5. Place your order with the chosen method
+    5a. Decide to pay with cash
+    5b. Decide to pay with card
+6. Wait for pizza
+    6a. If wrong order received, call the location.
+    6b. If satisfied with order, leave a review.
